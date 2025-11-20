@@ -1,4 +1,4 @@
-Página de Captura de Leads
+🧑‍💻 Página de Captura de Leads
 Uma landing page responsiva e otimizada para alta conversão, projetada com HTML e CSS puro. O objetivo principal é a captação de leads de forma eficaz, oferecendo uma experiência de usuário limpa e direta.
 
 <br>
